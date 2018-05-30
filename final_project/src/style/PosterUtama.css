@@ -1,0 +1,21 @@
+img {
+    object-fit: cover;
+}
+
+.judulwebsite {
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    font-size: 150px;
+    color: white;
+}
+
+.subjudulwebsite {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    font-size: 20px;
+    color: white;
+}

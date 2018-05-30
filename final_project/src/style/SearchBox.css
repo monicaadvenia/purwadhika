@@ -1,0 +1,13 @@
+.searchbox {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 320px;
+    margin-right: 200px;
+    padding: 20px;
+    background-color: #007BFF;
+    border-radius: 5px;    
+    
+}
+
+.searchboxcomponent {
+    width: 750px;
+}

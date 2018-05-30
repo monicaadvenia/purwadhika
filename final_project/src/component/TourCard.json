@@ -1,0 +1,7 @@
+{
+    "tours": [
+        {"name": "Bangka Belitung", "description": "Bangka Belitung is .."},
+        {"name": "Bali", "description": "Bali is .."},
+        {"name": "Raja Ampat", "description": "Raja Ampat is .."}
+    ]
+}
