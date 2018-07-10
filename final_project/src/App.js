@@ -53,7 +53,7 @@ class App extends Component {
           </div>
             
           <Footer></Footer>     
-          <CobaMaterialUI></CobaMaterialUI>       
+          {/* <CobaMaterialUI></CobaMaterialUI>        */}
       </div>
     );
   }

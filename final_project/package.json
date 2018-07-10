@@ -5,8 +5,13 @@
   "dependencies": {
     "@material-ui/core": "^1.1.0",
     "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
     "classnames": "^2.2.5",
+    "express": "^4.16.3",
     "font-awesome": "^4.7.0",
+    "mongodb": "^2.2.35",
+    "mongoose": "^5.2.2",
+    "mysql": "github:mysqljs/mysql",
     "primereact": "^1.5.3",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
